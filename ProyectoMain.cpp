@@ -196,3 +196,5 @@ int main() {
     } while (menu != 4);
     return 0;
 }
+
+//Dividirlo
