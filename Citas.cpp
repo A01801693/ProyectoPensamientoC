@@ -6,7 +6,7 @@ Citas::Citas(string _nombre, int _edad, float _peso, string _alergias, int _fech
     : Paciente(_nombre, _edad, _peso, _alergias), fecha(_fecha), tratamientoDental(_tratamientoDental) {}
 
 Citas::~Citas() {
-    // Destructor
+  
 }
 
 void Citas::completarCita() {

@@ -6,7 +6,7 @@ Recepcionista::Recepcionista(string _nombre, int _edad, float _peso, string _ale
     : Citas(_nombre, _edad, _peso, _alergias, _fecha, _tratamientoDental) {}
 
 Recepcionista::~Recepcionista() {
-    // Destructor
+    
 }
 
 void Recepcionista::agregarCita() {

@@ -6,7 +6,7 @@ Paciente::Paciente(string _nombre, int _edad, float _peso, string _alergias)
     : Persona(_nombre), edad(_edad), peso(_peso), alergias(_alergias) {}
 
 Paciente::~Paciente() {
-    // Destructor
+    
 }
 
 void Paciente::mostrarPaciente() {

@@ -1,6 +1,5 @@
 #ifndef PACIENTE_H
 #define PACIENTE_H
-
 #include "Persona.h"
 #include <string>
 using namespace std;
@@ -22,4 +21,4 @@ class Paciente : public Persona {
         void setAlergias(string);
 };
 
-#endif // PACIENTE_H
+#endif

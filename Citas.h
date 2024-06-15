@@ -19,4 +19,4 @@ class Citas : public Paciente {
         void setTratamientoDental(string);
 };
 
-#endif // CITAS_H
+#endif

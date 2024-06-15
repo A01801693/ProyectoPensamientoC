@@ -1,6 +1,5 @@
 #ifndef PERSONA_H
 #define PERSONA_H
-
 #include <string>
 using namespace std;
 
@@ -13,4 +12,4 @@ class Persona {
         string getNombre();
 };
 
-#endif // PERSONA_H
+#endif
